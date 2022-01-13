@@ -1,4 +1,2 @@
 
-Washington.csv
-Newyork.csv
-Chicago.zip
+*.csv
