@@ -10,8 +10,21 @@ In this project, I made use of Python to explore data related to bike share syst
 Chicago.csv
 Washington.csv
 Newyork.csv
-Bikeshare.py
 
 
+**Technologies Used:**
+*Python*
 
+Used Python programming language to explore data related to bikeshare.
 
+*Numpy and Pandas*
+
+Used to explore and manipulate DataFrames and performed statistical analysis.
+
+*Visual Studio Code*
+
+Used to make exploratory analysis and write appropriate SQL queries to answer the posed questions.
+
+*Git Version Control*
+
+Used to control and record the project files. Shared the work on GitHub profile.
